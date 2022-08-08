@@ -27,7 +27,6 @@
 		B377F798288C66700009BB0D /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = B377F797288C66700009BB0D /* Event.swift */; };
 		DE40B16128797C9000C901D3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE40B16028797C9000C901D3 /* AppDelegate.swift */; };
 		DE40B16328797C9000C901D3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE40B16228797C9000C901D3 /* SceneDelegate.swift */; };
-		DE40B16528797C9000C901D3 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE40B16428797C9000C901D3 /* LoginViewController.swift */; };
 		DE40B16828797C9000C901D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE40B16628797C9000C901D3 /* Main.storyboard */; };
 		DE40B16A28797C9200C901D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE40B16928797C9200C901D3 /* Assets.xcassets */; };
 		DE40B16D28797C9200C901D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE40B16B28797C9200C901D3 /* LaunchScreen.storyboard */; };
@@ -60,7 +59,6 @@
 		DE40B15D28797C9000C901D3 /* StudentPortal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StudentPortal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE40B16028797C9000C901D3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE40B16228797C9000C901D3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		DE40B16428797C9000C901D3 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		DE40B16728797C9000C901D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DE40B16928797C9200C901D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE40B16C28797C9200C901D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -140,7 +138,6 @@
 				B377F799288C66820009BB0D /* Calendar */,
 				DE40B16028797C9000C901D3 /* AppDelegate.swift */,
 				DE40B16228797C9000C901D3 /* SceneDelegate.swift */,
-				DE40B16428797C9000C901D3 /* LoginViewController.swift */,
 				1857A2FB287F7CB600735160 /* HomeViewController.swift */,
 				185EAECE288725960077F7FE /* MoreOptionsViewController.swift */,
 				185EAECC288725760077F7FE /* ProfileViewController.swift */,
@@ -282,7 +279,6 @@
 				185EAECD288725760077F7FE /* ProfileViewController.swift in Sources */,
 				B377F798288C66700009BB0D /* Event.swift in Sources */,
 				99E4F1572890585900DBA3DA /* DailyViewController.swift in Sources */,
-				DE40B16528797C9000C901D3 /* LoginViewController.swift in Sources */,
 				99E4F15D28918F1500DBA3DA /* CalendarDay.swift in Sources */,
 				DE40B16128797C9000C901D3 /* AppDelegate.swift in Sources */,
 				18290CF828970A3500D7BDAB /* socialClubsViewController.swift in Sources */,
